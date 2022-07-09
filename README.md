@@ -2,7 +2,7 @@
 
 ### Fast, Efficient and Powerful Technology
 
-Developing technology that turns microcomputers into high powered servers, mobile phones into journalists and cheap cameras into industrial-grade security systems.
+Developing technology that turns microcomputers into high powered servers, mobile phones into journalists and cheap cameras into industrial-grade security systems. We publish our core technologies which we use as building blocks for all of our projects here. 
 
 ### Projects:
 #### RSvIDX
