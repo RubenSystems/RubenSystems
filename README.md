@@ -4,7 +4,7 @@
 
 Developing technology that turns microcomputers into high powered servers, mobile phones into journalists and cheap cameras into industrial-grade security systems.
 
-Projects:
+### Projects:
 #### RSvIDX
 High speed and lightweight indexing library 
 
