@@ -11,15 +11,9 @@ High speed and lightweight indexing library
 
 -----
 
-#### RSrtIC 
-##### RubenSystems realtime internet communication
+#### RSiCS 
+##### RubenSystems internet communication
 Realtime internet communications 
-
------
-
-#### RSwGE 
-##### RubenSystems web generation engine
-Simple TCP server for easy and customisable communications 
 
 -----
 
