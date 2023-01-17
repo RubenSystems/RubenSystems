@@ -2,7 +2,7 @@
 
 ### Fast, Efficient and Powerful Technology
 
-Developing technology that turns microcomputers into high powered servers, mobile phones into journalists and cheap cameras into industrial-grade security systems. We publish the core technologies we use as building blocks for our projects here. 
+RubenSystems is a cutting edge technology research company. We specalise in developing new database engines, artificial intelligence, facial recognition and real-time computer networking technologies
 
 ### Main Repos:
 #### RSvIDX
