@@ -17,6 +17,6 @@ Realtime internet communications
 
 -----
 
-#### RSwCF 
-##### RubenSystems web creation framework 
-Functional framework for the creation of websites
+#### atomos-render-service 
+##### The render engine for AtmosphereOS
+Service to run on devices with the DRM-KMS framework which allows for low level rendering of GUIs. 
