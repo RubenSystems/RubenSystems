@@ -2,7 +2,7 @@
 
 ### Fast, Efficient and Powerful Technology
 
-RubenSystems is a cutting edge technology research company. We specalise in developing new database engines, artificial intelligence, facial recognition and real-time computer networking technologies
+RubenSystems is a cutting edge technology research company. We specalise in developing new database engines, artificial intelligence, facial recognition and networking technologies
 
 ### Main Repos:
 #### RSvIDX
