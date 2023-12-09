@@ -1,3 +1,3 @@
 # RubenSystems 
 
-### Fast, Efficient and Powerful Technology
+I am a programmer with skills in machine learning, compilers and information retrieval. 
